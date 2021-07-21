@@ -1,5 +1,5 @@
 # CardGame
-CardGame where the winner is the player that draws the card with the highest value.
+Card game where the winner is the player that draws the card with the highest value.
 
 The cardGame class includes the following methods:
 
